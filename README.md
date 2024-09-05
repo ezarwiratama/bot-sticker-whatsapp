@@ -6,10 +6,10 @@ Fitur:
 - Konversi otomatis gambar yang dikirim pengguna menjadi stiker WhatsApp.
 - Menambahkan caption pembuat pada stiker ("Hardin").
 
-Teknologi:
+Tools:
 - Node.js
-- whatsapp-web.js untuk integrasi dengan WhatsApp.
-- qrcode-terminal untuk menampilkan kode QR saat autentikasi.
+- whatsapp-web.js
+- qrcode-terminal
 
 Cara Penggunaan:
 - Clone repository ini.
