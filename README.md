@@ -4,7 +4,7 @@ A simple WhatsApp bot for creating stickers from images using wweb.js. This bot 
 Fitur:
 - Mendukung multi-device dengan LocalAuth.
 - Konversi otomatis gambar yang dikirim pengguna menjadi stiker WhatsApp.
-- Menambahkan caption pembuat pada stiker ("Hardin").
+- Menambahkan caption pembuat pada stiker.
 
 Tools:
 - Node.js
