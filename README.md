@@ -14,5 +14,5 @@ Tools:
 Cara Penggunaan:
 - Clone repository ini.
 - Install dependencies dengan npm install.
-- Jalankan bot dengan node main
+- Jalankan bot dengan node main.js
 - Scan QR Code untuk menghubungkan WhatsApp kamu dengan bot.
